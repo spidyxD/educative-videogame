@@ -3,6 +3,7 @@
 <image src="presentation2.jpg" alt="image not avaible">
 <p>
 Educative videogame about young people and drugs developed with gameMarker
-Instruccion:
+  <br>
+Instruccions:
   Just install the .exe file
 </p>  
