@@ -1,4 +1,4 @@
-# Videojuego-educativo
+# Videogame powered by GameMaker
 <image src="presentation.png alt="image not avaible">
 <image src="presentation2.png alt="image not avaible">
 <p>
